@@ -1,2 +1,2 @@
 # Personal Blog
-https://geedubey.github.io
+https://geedubey.github.io/blog
